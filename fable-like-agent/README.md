@@ -1,4 +1,4 @@
-[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/nessoft/fable-like-agent)
+[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/nessoft/skills)
 
 # fable-like-agent
 
