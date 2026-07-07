@@ -1,3 +1,5 @@
+[![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/nessoft/fable-like-agent)
+
 # fable-like-agent
 
 A portable Claude Code skill that guides capable models (Opus, Sonnet, or others) to work in a
